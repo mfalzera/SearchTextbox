@@ -1,0 +1,12 @@
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\bin\Debug\SearchTextbox.exe.config
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\bin\Debug\SearchTextbox.exe
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\bin\Debug\SearchTextbox.pdb
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\bin\Debug\SearchTextbox.xml
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.vbprojResolveAssemblyReference.cache
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.formSearchTextBoxMain.resources
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.Resources.resources
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.vbproj.GenerateResource.Cache
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.exe
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.xml
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.pdb
+C:\VisualStudio2015\VB\SearchTextbox\SearchTextbox\obj\Debug\SearchTextbox.SearchDialog.resources
